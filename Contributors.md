@@ -4,13 +4,10 @@
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
 - Hein is here
-- Hi, this is lanl2tz (https://github.com/lanl2tz)
-- Hello, I am Abdul Wahab
 - Hello, I am Celine Mang! (https://github.com/celinemang )
 - Hello, I am Camilo Velez
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
-- Hey there, I am Obed Nuertey [Profile](https://github.com/obedNuertey1)
 - Hello, I am Subham Phad
 - Hello, I am ved (https://github.com/antiquark007)
 - Hello, I am Yahia El boukili (https://github.com/yahyaeb)
@@ -38,7 +35,6 @@
 - Hello, I am kevin Martinez 
 - Hi, I am Keszőcze László
 - Hello, I am Sanju from Nepal
-- [Jyotsna Dontireddy](https://github.com/Jyotsna-D)
 - Salam, I'm Syed Umar Shah
 - Hello, Rahul Goala here! <a href="https://github.com/rgoala/">Let's connect!</a>
 - Hey! My name is Kush Patel! Here is a link to my github: (https://github.com/kush1314)
@@ -94,7 +90,6 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hello, I'm Troy! (https://github.com/guideoftheblue)
 - Hi I'm Sauravi Sar (https://github.com/SarthVader2004)
 - Hi iam james ngandu ! (https://github.com/jmngandu)
-- Hallo, It's Aziz :)
 - Hi i am Watiri
 - Hi I'm Rajkumar BM! (https://github.com/RajkumarBM-1963/)
 - Hi i am Algo
@@ -408,8 +403,7 @@ Thisarani Gunathilaka
 - Hi I'm a Harsssssh singh.(https://github.com/harsh48389)
 - hey folks! I'm Veneela taking my first steps to contribute in open source.
 - Hi I am Batman.
-- Hi I am Spiderman.
-- Hi I am Pablo https://www.youtube.com/watch?v=mCRe0DZqQPU&ab_channel=Artemis / https://github.com/stevopablo
+- Hi I am Spiderman. 
 - Hi, I'm [Fred] and this is my **first-contribution** !!
 - Heyyy, I'm Palina. Nice to meet you all!
 - Holaaa, my name is Satyam, not here for my first contribution. just a compulsion.
@@ -9139,7 +9133,6 @@ Didac Vilarnau
 - Hi I am Mikheil from Georgia (https://github.com/MikheilKvizhinadze2001)
 - Hey, this is Karan from Canada!
 - Hello, I am Tasos from Ptolemaida, Greece
-- G'day, I'm Steven Ring from Australia
 - Hi this is Yu from China.
 - Hi, this is [Leonardo Trindade] from Brazil(https://github.com/leotavo)
 - Hi, this is [Kanishk Mittal] from UK(https://github.com/Kanishkmittal55)
